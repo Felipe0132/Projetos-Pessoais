@@ -113,7 +113,7 @@ int main(){
 			for(c = 0; c < 3; c++){
 				printf("  %c  ", velha[l][c]);			
 			}
-			printf(" | ");
+			printf("| ");
 			printf("\n\n");
 		}
 		
