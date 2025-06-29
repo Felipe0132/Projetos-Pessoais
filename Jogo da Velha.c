@@ -6,7 +6,7 @@
 int main(){
 	
 	char velha[3][3];
-	int c, l, i, vencedor = 0, pos, l1, c1, resp = 0, vezesjogadas = 0;
+	int c, l, vencedor = 0, resp = 0, vezesjogadas = 0;
 	int jog[3] = {0, 'X', 'O'};
 	int vez[2] = {1, 2};
 
